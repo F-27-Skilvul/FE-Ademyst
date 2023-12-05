@@ -5,7 +5,7 @@ import NotFound from './pages/notFound'
 import PreviewBacaan from './pages/previewBacaan'
 import Login from "./pages/Login"
 import Register from "./pages/Register"
-import Dashboard from './pages/dashboard'
+import Dashboard from './pages/Dashboard'
 
 function App() {
   return (
